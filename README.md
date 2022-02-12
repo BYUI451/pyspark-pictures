@@ -17,20 +17,6 @@ print(y.collect())
 [1, 2, 3]  
 [1, 100, 1, 2, 200, 4, 3, 300, 9]  
 
-## Install (for interactive use)
-1. install [Spark](https://spark.apache.org/)
-2. install [IPython notebook](http://ipython.org/notebook.html)
-
-## Quick Start
-1. start pyspark inside IPython notebook
- 	
-	```bash
-	IPYTHON_OPTS="notebook" pyspark
-	```
-
-2. open browser to notebook link 
-3. open pyspark-pictures.ipynb or pyspark-pictures-dataframes.ipynb
-4. edit example code, press: <kbd>ctrl</kbd> + <kbd>enter</kbd> to run each cell 
 
 ## References
 [pyspark API](http://spark.apache.org/docs/latest/api/python/index.html)
