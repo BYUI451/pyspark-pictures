@@ -2,7 +2,7 @@
 Learn the pyspark API through pictures and simple examples
 
 ## View on NBViewer
-* [RDD API](pyspark-pictures.ipynb)
+* [RDD API](pyspark-pictures.ipynb) and [PDF Slides for RDD API](visualapi.pdf)
 * [DataFrame API](pyspark-pictures-dataframes.ipynb)
 
 ## RDD Example:
